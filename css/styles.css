@@ -1,0 +1,22 @@
+* {  
+    box-sizing: border-box;  
+}
+
+
+ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.gallery-image {
+    width: 360px;
+    height: 200px;
+}
