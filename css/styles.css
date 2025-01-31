@@ -16,6 +16,11 @@ ul {
 
 
 }
+.container {
+    width: 1128px;
+    margin: 0 auto;
+    padding-top: 24px;
+}
 .gallery-image {
     width: 360px;
     height: 200px;
